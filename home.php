@@ -1,4 +1,5 @@
 <!-- final test for david and igor USA USA USA -->
+<!-- final test for david and igor CANADA -->
 <?php
 $popup = false; 	
 ?>
